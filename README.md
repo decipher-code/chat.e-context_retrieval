@@ -46,4 +46,4 @@ Both datasets were **scraped and cleaned** from WHO public health sources and st
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/medical-context-retriever.git
-cd medical-context-retriever
+cd chat.e-context_retriever
