@@ -1,0 +1,90 @@
+
+{
+  "cough": {
+    "influenza": 0.03,
+    "pneumonia": 0.03,
+    "tuberculosis": 0.02,
+    "bronchitis": 0.03,
+    "covid": 0.02
+  },
+  "cold": {
+    "influenza": 0.03,
+    "bronchitis": 0.02,
+    "covid": 0.02
+  },
+  "fever": {
+    "malaria": 0.03,
+    "dengue": 0.03,
+    "influenza": 0.02,
+    "sepsis": 0.02,
+    "typhoid": 0.02
+  },
+  "chest pain": {
+    "pneumonia": 0.02,
+    "tuberculosis": 0.02,
+    "hypertension": 0.02,
+    "heart attack": 0.03
+  },
+  "difficulty breathing": {
+    "pneumonia": 0.03,
+    "covid": 0.03,
+    "influenza": 0.02,
+    "asthma": 0.03
+  },
+  "body pain": {
+    "dengue": 0.03,
+    "influenza": 0.02,
+    "malaria": 0.02
+  },
+  "headache": {
+    "malaria": 0.02,
+    "dengue": 0.02,
+    "influenza": 0.02,
+    "hypertension": 0.02,
+    "migraine": 0.03
+  },
+  "diarrhea": {
+    "cholera": 0.04,
+    "typhoid": 0.03,
+    "food poisoning": 0.03
+  },
+  "weakness": {
+    "anaemia": 0.04,
+    "malaria": 0.02,
+    "sepsis": 0.02,
+    "depression": 0.02
+  },
+  "night sweats": {
+    "tuberculosis": 0.03
+  },
+  "anxiety": {
+    "anxiety": 0.04,
+    "ptsd": 0.02,
+    "hypertension": 0.02,
+    "depression": 0.02
+  },
+  "dizzy": {
+    "anaemia": 0.03,
+    "hypertension": 0.02,
+    "dehydration": 0.02,
+    "anxiety": 0.02
+  },
+  "dizziness": {
+    "anaemia": 0.03,
+    "hypertension": 0.02
+  },
+  "stress": {
+    "anxiety": 0.03,
+    "ptsd": 0.02,
+    "hypertension": 0.02
+  },
+  "fatigue": {
+    "anaemia": 0.03,
+    "malaria": 0.02,
+    "depression": 0.02
+  },
+  "bleeding": {
+    "dengue": 0.03,
+    "haemophilia": 0.04
+  }
+}
